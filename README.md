@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **20050309qqa@gmail.com**
 
-<h3 align="left">Long intro:</h3>
+<h3 align="left">Intro:</h3>
 
 Hi there 👋!
 I am **Zijun Liao**, You can call me Leo, a mathematics student studying at Chung Yuan Christian University.I wanted a place to document my work and connect with peers worldwide, so I created GitHub.I'm currently learning how to use Unreal Engine 5. If any experienced peers are willing to share their experiences, please contact me.Currently, I have completed 2048 and Tetris.
