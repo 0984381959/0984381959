@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Mathematics and Programming**
 
-- 🤝 I’m looking for help with **ChatGPT Support related to game programming.**
+- 🤝 I’m looking for help with **Support related to game programming.**
 
 - 📫 How to reach me **20050309qqa@gmail.com**
 
